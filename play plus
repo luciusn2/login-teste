@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+
+<h1>Play Plus</h1>
+<center>
+<fieldset style="width:20px">
+<legend>play plus</legend>
+<form>
+<label for="fname">Nome:</label><br>
+<input type="text" id="fname" name="fname" value="Lucius"><br>
+<label for="lname">Senha:</label><br>
+<input type="text" id="lname" name="lname" value="************"><br><br>
+<label for="Console">Escolha o console:</label>
+<select id="Console" name="Console">
+<option value="ps4">PS4</option>
+<option value="ps5">PS5</option>
+</select><br><br>
+<input type="submit" value="Enviar">
+</form>
+</fieldset>
+</center>
+<p></p>
+
+</body>
+</html>
+
+
